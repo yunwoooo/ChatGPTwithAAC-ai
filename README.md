@@ -10,7 +10,7 @@
 
 ## 📌 연구 개요
 
-한국형 AAC(Augmentative and Alternative Communication) 그림 상징 약 **5,906개**에 대해 GPT-4o 멀티모달 모델을 활용하여 상징 표현의 적절성을 자동으로 평가한 연구입니다.
+한국형 AAC(Augmentative and Alternative Communication) 그림 상징 약 **10,000개**에 대해 GPT-4o 멀티모달 모델을 활용하여 상징 표현의 적절성을 자동으로 평가한 연구입니다.
 
 기존에는 사람 전문가가 직접 검증하던 AAC 상징의 적절성을 AI 언어 모델이 얼마나 유사하게 인식하는지를 측정하고, 향후 LLM 기반 검증 파이프라인 도입 가능성을 탐색했습니다.
 
